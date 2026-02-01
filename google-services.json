@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047367548260",
+    "project_id": "debill-c9dd3",
+    "storage_bucket": "debill-c9dd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047367548260:android:c5c309aa00c1292514ce71",
+        "android_client_info": {
+          "package_name": "com.debill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQr48JWvY53ugqaL1r7GvuIAISSjl17cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047367548260:android:58e4505ae33f283e14ce71",
+        "android_client_info": {
+          "package_name": "com.example.debill_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQr48JWvY53ugqaL1r7GvuIAISSjl17cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
